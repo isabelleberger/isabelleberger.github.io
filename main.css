@@ -6,3 +6,9 @@ title {
   font-weight: 600;
 }
 
+html, body, h1 {
+  margin: 1;
+  padding: 1;
+}
+
+
