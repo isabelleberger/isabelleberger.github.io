@@ -1,10 +1,16 @@
 /* testing */
 
-title {
+header {
   font-size: 20px;
   font-family: Georgia, "Times New Roman", serif;
   font-weight: 600;
   padding: 20px;
   background-color: mediumaquamarine;
 }
+
+p {
+  font-size: 10px;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
 
