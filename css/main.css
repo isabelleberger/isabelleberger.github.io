@@ -36,3 +36,11 @@ h3 {
 .male-fly {
   float: right;
   margin-right: 15px;
+  width: 25%;
+}
+
+.female-fly {
+  float: right;
+  margin-right: 15px;
+  width: 25%;
+}     
