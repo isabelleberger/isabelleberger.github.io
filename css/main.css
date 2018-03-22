@@ -1,7 +1,7 @@
 /* testing */
 
 header {
-  padding: 20px;
+  padding: 12px;
   background-color: mediumaquamarine;
 }
 
@@ -14,6 +14,7 @@ header {
 body {
   font-size: 13px;
   font-family: Helvetica, Arial, sans-serif;
+  margin: 0;
 }
 
 article{
@@ -38,3 +39,4 @@ img {
   margin-right: 5px;
   width: 28%;
 }     
+   
