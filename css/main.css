@@ -18,7 +18,7 @@ body {
 
 article{
   margin: 15px;
-  width: 75%;
+  width: 65%;
   float: left;
 }
 
@@ -33,14 +33,8 @@ h3 {
   font-size: 20px;
 }
 
-.male-fly {
+img {
   float: right;
-  margin-right: 15px;
-  width: 25%;
-}
-
-.female-fly {
-  float: right;
-  margin-right: 15px;
-  width: 25%;
+  margin-right: 5px;
+  width: 28%;
 }     
